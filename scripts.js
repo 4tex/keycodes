@@ -1,6 +1,7 @@
 'use strict';
 
 var keyCodes = {
+  0 : "ü ö ä"
   3 : "break",
   8 : "backspace / delete",
   9 : "tab",
@@ -107,6 +108,7 @@ var keyCodes = {
   130 : "f19",
   144 : "num lock ",
   145 : "scroll lock",
+  160 : "circumflex",
   163 : "#",
   173 : "minus (firefox), mute/unmute",
   174 : "decrease volume level",
